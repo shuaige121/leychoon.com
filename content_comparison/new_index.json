@@ -1,0 +1,100 @@
+{
+  "index": {
+    "title": "Ley Choon Group Holdings Limited",
+    "filename": "index.html",
+    "word_count": 215,
+    "section_count": 5,
+    "sections": [
+      "home",
+      "about",
+      "services",
+      "investors",
+      "pdf-overlay"
+    ],
+    "json_file": "new_pages/index.json"
+  },
+  "about": {
+    "title": "About Us - Ley Choon Group",
+    "filename": "about.html",
+    "word_count": 1600,
+    "section_count": 8,
+    "sections": [
+      "profile",
+      "video",
+      "vision",
+      "history",
+      "structure",
+      "board",
+      "management",
+      "awards"
+    ],
+    "json_file": "new_pages/about.json"
+  },
+  "business": {
+    "title": "Our Business - Ley Choon Group",
+    "filename": "business.html",
+    "word_count": 1127,
+    "section_count": 8,
+    "sections": [
+      "overview",
+      "pipes",
+      "asphalt",
+      "projects",
+      "customers",
+      "offices",
+      "strengths",
+      "traffic-lights"
+    ],
+    "json_file": "new_pages/business.json"
+  },
+  "investors": {
+    "title": "Investor Relations - Ley Choon Group",
+    "filename": "investors.html",
+    "word_count": 587,
+    "section_count": 8,
+    "sections": [
+      "overview",
+      "newsroom",
+      "governance",
+      "financial",
+      "sustainability",
+      "research",
+      "contact",
+      "pdf-overlay"
+    ],
+    "json_file": "new_pages/investors.json"
+  },
+  "training": {
+    "title": "Training Programs - Ley Choon Group",
+    "filename": "training.html",
+    "word_count": 1149,
+    "section_count": 8,
+    "sections": [
+      "overview",
+      "bca-attc",
+      "fees",
+      "excavator",
+      "bulldozer",
+      "cet",
+      "lc-courses",
+      "road-maintenance"
+    ],
+    "json_file": "new_pages/training.json"
+  },
+  "career": {
+    "title": "Career - Ley Choon Group",
+    "filename": "career.html",
+    "word_count": 323,
+    "section_count": 0,
+    "sections": [],
+    "json_file": "new_pages/career.json"
+  },
+  "contact": {
+    "title": "Contact Us - Ley Choon Group",
+    "filename": "contact.html",
+    "word_count": 223,
+    "section_count": 0,
+    "sections": [],
+    "json_file": "new_pages/contact.json"
+  }
+}

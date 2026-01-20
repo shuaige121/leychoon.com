@@ -26,16 +26,18 @@
 
             <nav>
                 <ul>
-                    <li><a href="#home" data-i18n="nav_home">Home</a></li>
-                    <li><a href="#about" data-i18n="nav_about">About Us</a></li>
-                    <li><a href="#services" data-i18n="nav_business">Our Business</a></li>
-                    <li><a href="#investors" data-i18n="nav_investor">Investor Relations</a></li>
-                    <li><a href="#contact" data-i18n="nav_contact">Contact Us</a></li>
+                    <li><a href="index.html" data-i18n="nav_home">Home</a></li>
+                    <li><a href="about.html" data-i18n="nav_about">About Us</a></li>
+                    <li><a href="business.html" data-i18n="nav_business">Our Business</a></li>
+                    <li><a href="investors.html" data-i18n="nav_investor">Investor Relations</a></li>
+                    <li><a href="training.html" data-i18n="nav_training">Training Programs</a></li>
+                    <li><a href="career.html" data-i18n="nav_career">Career</a></li>
+                    <li><a href="contact.html" data-i18n="nav_contact">Contact Us</a></li>
                 </ul>
             </nav>
 
             <div class="language-switcher">
-                <select id="lang-select">
+                <select id="lang-select" title="Select Language">
                     <option value="en">English</option>
                     <option value="cn">中文</option>
                     <option value="ms">Melayu</option>
@@ -48,9 +50,9 @@
     <!-- Hero Section -->
     <section id="home" class="hero">
         <div class="hero-content">
-            <h1 data-i18n="hero_title">Ley Choon Group Holdings Limited</h1>
-            <p data-i18n="hero_subtitle">Established One-Stop Underground Utilities Infrastructure Construction and Road
-                Works Service Provider</p>
+            <h1 data-i18n="hero_title">Welcome to Ley Choon Group Holdings Limited</h1>
+            <p data-i18n="hero_subtitle">Ley Choon Group of Companies is an established one-stop Underground Utilities
+                Infrastructure Construction and Road Works service provider.</p>
             <a href="#about" class="btn" data-i18n="btn_read_more">Read More</a>
         </div>
     </section>
@@ -62,8 +64,25 @@
             <div class="about-grid">
                 <div class="about-text">
                     <p data-i18n="about_desc">Ley Choon Group of Companies is an established one-stop Underground
-                        Utilities Infrastructure Construction and Road Works service provider. We are a L6 Registered
-                        Contractor (highest grade) in Cable/Pipe Laying & Road Reinstatement and Asphalt Works.</p>
+                        Utilities Infrastructure Construction and Road Works service provider.</p>
+
+                    <div class="bca-info">
+                        <h4>Our Major Tender Heads (Building & Construction Authority – BCA):</h4>
+                        <ul>
+                            <li>
+                                <strong>1) CR07 – Cable/Pipe Laying & Road Reinstatement</strong>
+                                <span>L6 Registered Contractor (Highest Grade & Unlimited Value)</span>
+                            </li>
+                            <li>
+                                <strong>2) CW02 – Civil Engineering</strong>
+                                <span>A1 Registered Contractor (Highest Grade & Unlimited Value)</span>
+                            </li>
+                            <li>
+                                <strong>3) CR14 – Asphalt Works & Road Marking</strong>
+                                <span>L6 Registered Contractor (Highest Grade & Unlimited Value)</span>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
                 <div class="about-image">
                     <!-- Using one of the project images -->
@@ -148,7 +167,7 @@
             <span class="btn-close" onclick="closePDF()">×</span>
         </div>
         <div class="pdf-container">
-            <iframe id="pdf-frame" src=""></iframe>
+            <iframe id="pdf-frame" src="" title="PDF Viewer"></iframe>
         </div>
     </div>
 
@@ -167,7 +186,7 @@
                         <li>
                             <span data-i18n="footer_phone">Phone</span>:
                             <!-- WhatsApp Link Transformation -->
-                            <a href="https://wa.me/6567570900" target="_blank"
+                            <a href="https://wa.me/6567570900" target="_blank" rel="noopener noreferrer"
                                 style="color: var(--secondary-color); font-weight: bold;">
                                 +65 6757 0900
                             </a>

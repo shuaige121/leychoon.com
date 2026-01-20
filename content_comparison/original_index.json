@@ -1,0 +1,992 @@
+{
+  "%3C@php echo get_option('home'); %3F%3E%2F%3Fpage_id=3210": {
+    "title": "Ley Choon Group - Ley Choon Group",
+    "filename": "%3C@php echo get_option('home'); %3F%3E%2F%3Fpage_id=3210.html",
+    "word_count": 412,
+    "json_file": "original_pages/%3C@php echo get_option('home'); %3F%3E%2F%3Fpage_id=3210.json"
+  },
+  "%3C@php echo get_option('home'); %3F%3E%2F%3Fpage_id=3823": {
+    "title": "Ley Choon Group - Ley Choon Group",
+    "filename": "%3C@php echo get_option('home'); %3F%3E%2F%3Fpage_id=3823.html",
+    "word_count": 412,
+    "json_file": "original_pages/%3C@php echo get_option('home'); %3F%3E%2F%3Fpage_id=3823.json"
+  },
+  "home": {
+    "title": "Ley Choon Group - Ley Choon Group",
+    "filename": "index.html",
+    "word_count": 412,
+    "json_file": "original_pages/home.json"
+  },
+  "page_18": {
+    "title": "Career - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=18.html",
+    "word_count": 326,
+    "json_file": "original_pages/page_18.json"
+  },
+  "page_2": {
+    "title": "About Us - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2.html",
+    "word_count": 762,
+    "json_file": "original_pages/page_2.json"
+  },
+  "page_20": {
+    "title": "Contact Us - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=20.html",
+    "word_count": 315,
+    "json_file": "original_pages/page_20.json"
+  },
+  "page_2296": {
+    "title": "Financial Information - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2296.html",
+    "word_count": 651,
+    "json_file": "original_pages/page_2296.json"
+  },
+  "page_2330": {
+    "title": "Investor Relations - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2330.html",
+    "word_count": 379,
+    "json_file": "original_pages/page_2330.json"
+  },
+  "page_2334": {
+    "title": "Financial Results - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2334.html",
+    "word_count": 452,
+    "json_file": "original_pages/page_2334.json"
+  },
+  "page_2385": {
+    "title": "Research Reports - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2385.html",
+    "word_count": 310,
+    "json_file": "original_pages/page_2385.json"
+  },
+  "page_2391": {
+    "title": "Annual Reports and Circulars - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2391.html",
+    "word_count": 653,
+    "json_file": "original_pages/page_2391.json"
+  },
+  "page_24": {
+    "title": "Underground Pipes and Roads & Repairs - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=24.html",
+    "word_count": 461,
+    "json_file": "original_pages/page_24.json"
+  },
+  "page_2439": {
+    "title": "Corporate Governance - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2439.html",
+    "word_count": 409,
+    "json_file": "original_pages/page_2439.json"
+  },
+  "page_2464": {
+    "title": "IR Contact - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2464.html",
+    "word_count": 338,
+    "json_file": "original_pages/page_2464.json"
+  },
+  "page_2467": {
+    "title": "Board of Directors - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2467.html",
+    "word_count": 1604,
+    "json_file": "original_pages/page_2467.json"
+  },
+  "page_2469": {
+    "title": "Management Team - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2469.html",
+    "word_count": 1031,
+    "json_file": "original_pages/page_2469.json"
+  },
+  "page_2679": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2679.html",
+    "word_count": 430,
+    "json_file": "original_pages/page_2679.json"
+  },
+  "page_2681": {
+    "title": "Press Releases - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=2681.html",
+    "word_count": 420,
+    "json_file": "original_pages/page_2681.json"
+  },
+  "page_28": {
+    "title": "Corporate Profile - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=28.html",
+    "word_count": 762,
+    "json_file": "original_pages/page_28.json"
+  },
+  "page_289": {
+    "title": "Management Team - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=289.html",
+    "word_count": 1027,
+    "json_file": "original_pages/page_289.json"
+  },
+  "page_32": {
+    "title": "Our Group Structure - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=32.html",
+    "word_count": 291,
+    "json_file": "original_pages/page_32.json"
+  },
+  "page_3208": {
+    "title": "CoreTrade, Multi-Skilling, Direct R1 and SEC - Training Programs - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=3208.html",
+    "word_count": 405,
+    "json_file": "original_pages/page_3208.json"
+  },
+  "page_3210": {
+    "title": "Hydraulic Excavator Operation (As Lifting Machine) - ATTC - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=3210.html",
+    "word_count": 470,
+    "json_file": "original_pages/page_3210.json"
+  },
+  "page_3216": {
+    "title": "Course Fees & Registration - ATTC - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=3216.html",
+    "word_count": 574,
+    "json_file": "original_pages/page_3216.json"
+  },
+  "page_332": {
+    "title": "Asphalt Premix, Milling & Paving Works, Road Marking - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=332.html",
+    "word_count": 499,
+    "json_file": "original_pages/page_332.json"
+  },
+  "page_34": {
+    "title": "Vision and Mission - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=34.html",
+    "word_count": 350,
+    "json_file": "original_pages/page_34.json"
+  },
+  "page_3510": {
+    "title": "Sustainability Report - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=3510.html",
+    "word_count": 328,
+    "json_file": "original_pages/page_3510.json"
+  },
+  "page_352": {
+    "title": "Project Track Record - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=352.html",
+    "word_count": 1428,
+    "json_file": "original_pages/page_352.json"
+  },
+  "page_355": {
+    "title": "Our Customers - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=355.html",
+    "word_count": 329,
+    "json_file": "original_pages/page_355.json"
+  },
+  "page_36": {
+    "title": "History & Milestones - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=36.html",
+    "word_count": 846,
+    "json_file": "original_pages/page_36.json"
+  },
+  "page_361": {
+    "title": "Our Offices & Facilities - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=361.html",
+    "word_count": 345,
+    "json_file": "original_pages/page_361.json"
+  },
+  "page_38": {
+    "title": "Awards & Certifications - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=38.html",
+    "word_count": 1097,
+    "json_file": "original_pages/page_38.json"
+  },
+  "page_3823": {
+    "title": "Bulldozer Operation Course - ATTC - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=3823.html",
+    "word_count": 419,
+    "json_file": "original_pages/page_3823.json"
+  },
+  "page_3827": {
+    "title": "Construction Plant Operation (non-lifting) CET Online - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=3827.html",
+    "word_count": 461,
+    "json_file": "original_pages/page_3827.json"
+  },
+  "page_4598": {
+    "title": "Portable Traffic Light Selling and Rental - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=4598.html",
+    "word_count": 547,
+    "json_file": "original_pages/page_4598.json"
+  },
+  "page_485": {
+    "title": "Our Competitive Strengths - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=485.html",
+    "word_count": 617,
+    "json_file": "original_pages/page_485.json"
+  },
+  "page_4893": {
+    "title": "BCA ATTC - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=4893.html",
+    "word_count": 543,
+    "json_file": "original_pages/page_4893.json"
+  },
+  "page_4902": {
+    "title": "Ley Choon Training Courses - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=4902.html",
+    "word_count": 375,
+    "json_file": "original_pages/page_4902.json"
+  },
+  "page_4904": {
+    "title": "Essential Road Maintenance Training Program - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=4904.html",
+    "word_count": 577,
+    "json_file": "original_pages/page_4904.json"
+  },
+  "page_754": {
+    "title": "Board of Directors - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=754.html",
+    "word_count": 1600,
+    "json_file": "original_pages/page_754.json"
+  },
+  "page_8": {
+    "title": "Our Business - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=8.html",
+    "word_count": 383,
+    "json_file": "original_pages/page_8.json"
+  },
+  "page_804": {
+    "title": "Corporate Video - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=804.html",
+    "word_count": 289,
+    "json_file": "original_pages/page_804.json"
+  },
+  "page_903": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@p=903.html",
+    "word_count": 424,
+    "json_file": "original_pages/page_903.json"
+  },
+  "index@page=2": {
+    "title": "Ley Choon Group - Ley Choon Group",
+    "filename": "index.html@page=2.html",
+    "word_count": 412,
+    "json_file": "original_pages/index@page=2.json"
+  },
+  "index@page_id=18": {
+    "title": "Career - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=18.html",
+    "word_count": 326,
+    "json_file": "original_pages/index@page_id=18.json"
+  },
+  "index@page_id=2": {
+    "title": "About Us - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2.html",
+    "word_count": 762,
+    "json_file": "original_pages/index@page_id=2.json"
+  },
+  "index@page_id=20": {
+    "title": "Contact Us - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=20.html",
+    "word_count": 315,
+    "json_file": "original_pages/index@page_id=20.json"
+  },
+  "index@page_id=2296": {
+    "title": "Financial Information - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2296.html",
+    "word_count": 651,
+    "json_file": "original_pages/index@page_id=2296.json"
+  },
+  "index@page_id=2330": {
+    "title": "Investor Relations - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2330.html",
+    "word_count": 379,
+    "json_file": "original_pages/index@page_id=2330.json"
+  },
+  "index@page_id=2334&paged=2": {
+    "title": "Financial Results - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2334&paged=2.html",
+    "word_count": 454,
+    "json_file": "original_pages/index@page_id=2334&paged=2.json"
+  },
+  "index@page_id=2334&paged=3": {
+    "title": "Financial Results - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2334&paged=3.html",
+    "word_count": 348,
+    "json_file": "original_pages/index@page_id=2334&paged=3.json"
+  },
+  "index@page_id=2334": {
+    "title": "Financial Results - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2334.html",
+    "word_count": 452,
+    "json_file": "original_pages/index@page_id=2334.json"
+  },
+  "index@page_id=2385": {
+    "title": "Research Reports - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2385.html",
+    "word_count": 310,
+    "json_file": "original_pages/index@page_id=2385.json"
+  },
+  "index@page_id=2391": {
+    "title": "Annual Reports and Circulars - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2391.html",
+    "word_count": 653,
+    "json_file": "original_pages/index@page_id=2391.json"
+  },
+  "index@page_id=24": {
+    "title": "Underground Pipes and Roads & Repairs - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=24.html",
+    "word_count": 461,
+    "json_file": "original_pages/index@page_id=24.json"
+  },
+  "index@page_id=2439": {
+    "title": "Corporate Governance - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2439.html",
+    "word_count": 409,
+    "json_file": "original_pages/index@page_id=2439.json"
+  },
+  "index@page_id=2464": {
+    "title": "IR Contact - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2464.html",
+    "word_count": 338,
+    "json_file": "original_pages/index@page_id=2464.json"
+  },
+  "index@page_id=2467": {
+    "title": "Board of Directors - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2467.html",
+    "word_count": 1604,
+    "json_file": "original_pages/index@page_id=2467.json"
+  },
+  "index@page_id=2469": {
+    "title": "Management Team - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2469.html",
+    "word_count": 1031,
+    "json_file": "original_pages/index@page_id=2469.json"
+  },
+  "index@page_id=2679&paged=10": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=10.html",
+    "word_count": 419,
+    "json_file": "original_pages/index@page_id=2679&paged=10.json"
+  },
+  "index@page_id=2679&paged=11": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=11.html",
+    "word_count": 445,
+    "json_file": "original_pages/index@page_id=2679&paged=11.json"
+  },
+  "index@page_id=2679&paged=12": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=12.html",
+    "word_count": 417,
+    "json_file": "original_pages/index@page_id=2679&paged=12.json"
+  },
+  "index@page_id=2679&paged=13": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=13.html",
+    "word_count": 405,
+    "json_file": "original_pages/index@page_id=2679&paged=13.json"
+  },
+  "index@page_id=2679&paged=14": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=14.html",
+    "word_count": 413,
+    "json_file": "original_pages/index@page_id=2679&paged=14.json"
+  },
+  "index@page_id=2679&paged=15": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=15.html",
+    "word_count": 440,
+    "json_file": "original_pages/index@page_id=2679&paged=15.json"
+  },
+  "index@page_id=2679&paged=16": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=16.html",
+    "word_count": 476,
+    "json_file": "original_pages/index@page_id=2679&paged=16.json"
+  },
+  "index@page_id=2679&paged=17": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=17.html",
+    "word_count": 430,
+    "json_file": "original_pages/index@page_id=2679&paged=17.json"
+  },
+  "index@page_id=2679&paged=18": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=18.html",
+    "word_count": 406,
+    "json_file": "original_pages/index@page_id=2679&paged=18.json"
+  },
+  "index@page_id=2679&paged=19": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=19.html",
+    "word_count": 402,
+    "json_file": "original_pages/index@page_id=2679&paged=19.json"
+  },
+  "index@page_id=2679&paged=2": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=2.html",
+    "word_count": 411,
+    "json_file": "original_pages/index@page_id=2679&paged=2.json"
+  },
+  "index@page_id=2679&paged=20": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=20.html",
+    "word_count": 429,
+    "json_file": "original_pages/index@page_id=2679&paged=20.json"
+  },
+  "index@page_id=2679&paged=21": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=21.html",
+    "word_count": 406,
+    "json_file": "original_pages/index@page_id=2679&paged=21.json"
+  },
+  "index@page_id=2679&paged=22": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=22.html",
+    "word_count": 397,
+    "json_file": "original_pages/index@page_id=2679&paged=22.json"
+  },
+  "index@page_id=2679&paged=23": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=23.html",
+    "word_count": 430,
+    "json_file": "original_pages/index@page_id=2679&paged=23.json"
+  },
+  "index@page_id=2679&paged=24": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=24.html",
+    "word_count": 457,
+    "json_file": "original_pages/index@page_id=2679&paged=24.json"
+  },
+  "index@page_id=2679&paged=28": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=28.html",
+    "word_count": 569,
+    "json_file": "original_pages/index@page_id=2679&paged=28.json"
+  },
+  "index@page_id=2679&paged=29": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=29.html",
+    "word_count": 482,
+    "json_file": "original_pages/index@page_id=2679&paged=29.json"
+  },
+  "index@page_id=2679&paged=3": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=3.html",
+    "word_count": 458,
+    "json_file": "original_pages/index@page_id=2679&paged=3.json"
+  },
+  "index@page_id=2679&paged=30": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=30.html",
+    "word_count": 430,
+    "json_file": "original_pages/index@page_id=2679&paged=30.json"
+  },
+  "index@page_id=2679&paged=31": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=31.html",
+    "word_count": 422,
+    "json_file": "original_pages/index@page_id=2679&paged=31.json"
+  },
+  "index@page_id=2679&paged=32": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=32.html",
+    "word_count": 423,
+    "json_file": "original_pages/index@page_id=2679&paged=32.json"
+  },
+  "index@page_id=2679&paged=4": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=4.html",
+    "word_count": 439,
+    "json_file": "original_pages/index@page_id=2679&paged=4.json"
+  },
+  "index@page_id=2679&paged=40": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=40.html",
+    "word_count": 444,
+    "json_file": "original_pages/index@page_id=2679&paged=40.json"
+  },
+  "index@page_id=2679&paged=41": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=41.html",
+    "word_count": 467,
+    "json_file": "original_pages/index@page_id=2679&paged=41.json"
+  },
+  "index@page_id=2679&paged=42": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=42.html",
+    "word_count": 502,
+    "json_file": "original_pages/index@page_id=2679&paged=42.json"
+  },
+  "index@page_id=2679&paged=43": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=43.html",
+    "word_count": 467,
+    "json_file": "original_pages/index@page_id=2679&paged=43.json"
+  },
+  "index@page_id=2679&paged=44": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=44.html",
+    "word_count": 438,
+    "json_file": "original_pages/index@page_id=2679&paged=44.json"
+  },
+  "index@page_id=2679&paged=45": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=45.html",
+    "word_count": 448,
+    "json_file": "original_pages/index@page_id=2679&paged=45.json"
+  },
+  "index@page_id=2679&paged=46": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=46.html",
+    "word_count": 432,
+    "json_file": "original_pages/index@page_id=2679&paged=46.json"
+  },
+  "index@page_id=2679&paged=47": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=47.html",
+    "word_count": 485,
+    "json_file": "original_pages/index@page_id=2679&paged=47.json"
+  },
+  "index@page_id=2679&paged=48": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=48.html",
+    "word_count": 382,
+    "json_file": "original_pages/index@page_id=2679&paged=48.json"
+  },
+  "index@page_id=2679&paged=5": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=5.html",
+    "word_count": 432,
+    "json_file": "original_pages/index@page_id=2679&paged=5.json"
+  },
+  "index@page_id=2679&paged=6": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=6.html",
+    "word_count": 427,
+    "json_file": "original_pages/index@page_id=2679&paged=6.json"
+  },
+  "index@page_id=2679&paged=7": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=7.html",
+    "word_count": 421,
+    "json_file": "original_pages/index@page_id=2679&paged=7.json"
+  },
+  "index@page_id=2679&paged=8": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=8.html",
+    "word_count": 409,
+    "json_file": "original_pages/index@page_id=2679&paged=8.json"
+  },
+  "index@page_id=2679&paged=9": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679&paged=9.html",
+    "word_count": 492,
+    "json_file": "original_pages/index@page_id=2679&paged=9.json"
+  },
+  "index@page_id=2679": {
+    "title": "Announcements - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2679.html",
+    "word_count": 430,
+    "json_file": "original_pages/index@page_id=2679.json"
+  },
+  "index@page_id=2681&paged=2": {
+    "title": "Press Releases - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2681&paged=2.html",
+    "word_count": 444,
+    "json_file": "original_pages/index@page_id=2681&paged=2.json"
+  },
+  "index@page_id=2681&paged=3": {
+    "title": "Press Releases - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2681&paged=3.html",
+    "word_count": 489,
+    "json_file": "original_pages/index@page_id=2681&paged=3.json"
+  },
+  "index@page_id=2681&paged=4": {
+    "title": "Press Releases - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2681&paged=4.html",
+    "word_count": 480,
+    "json_file": "original_pages/index@page_id=2681&paged=4.json"
+  },
+  "index@page_id=2681": {
+    "title": "Press Releases - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=2681.html",
+    "word_count": 420,
+    "json_file": "original_pages/index@page_id=2681.json"
+  },
+  "index@page_id=28": {
+    "title": "Corporate Profile - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=28.html",
+    "word_count": 762,
+    "json_file": "original_pages/index@page_id=28.json"
+  },
+  "index@page_id=289": {
+    "title": "Management Team - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=289.html",
+    "word_count": 1027,
+    "json_file": "original_pages/index@page_id=289.json"
+  },
+  "index@page_id=32": {
+    "title": "Our Group Structure - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=32.html",
+    "word_count": 291,
+    "json_file": "original_pages/index@page_id=32.json"
+  },
+  "index@page_id=3208": {
+    "title": "CoreTrade, Multi-Skilling, Direct R1 and SEC - Training Programs - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=3208.html",
+    "word_count": 405,
+    "json_file": "original_pages/index@page_id=3208.json"
+  },
+  "index@page_id=3210": {
+    "title": "Hydraulic Excavator Operation (As Lifting Machine) - ATTC - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=3210.html",
+    "word_count": 470,
+    "json_file": "original_pages/index@page_id=3210.json"
+  },
+  "index@page_id=3216": {
+    "title": "Course Fees & Registration - ATTC - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=3216.html",
+    "word_count": 574,
+    "json_file": "original_pages/index@page_id=3216.json"
+  },
+  "index@page_id=332": {
+    "title": "Asphalt Premix, Milling & Paving Works, Road Marking - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=332.html",
+    "word_count": 499,
+    "json_file": "original_pages/index@page_id=332.json"
+  },
+  "index@page_id=34": {
+    "title": "Vision and Mission - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=34.html",
+    "word_count": 350,
+    "json_file": "original_pages/index@page_id=34.json"
+  },
+  "index@page_id=3510": {
+    "title": "Sustainability Report - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=3510.html",
+    "word_count": 328,
+    "json_file": "original_pages/index@page_id=3510.json"
+  },
+  "index@page_id=352": {
+    "title": "Project Track Record - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=352.html",
+    "word_count": 1428,
+    "json_file": "original_pages/index@page_id=352.json"
+  },
+  "index@page_id=355": {
+    "title": "Our Customers - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=355.html",
+    "word_count": 329,
+    "json_file": "original_pages/index@page_id=355.json"
+  },
+  "index@page_id=36": {
+    "title": "History & Milestones - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=36.html",
+    "word_count": 846,
+    "json_file": "original_pages/index@page_id=36.json"
+  },
+  "index@page_id=361": {
+    "title": "Our Offices & Facilities - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=361.html",
+    "word_count": 345,
+    "json_file": "original_pages/index@page_id=361.json"
+  },
+  "index@page_id=38": {
+    "title": "Awards & Certifications - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=38.html",
+    "word_count": 1097,
+    "json_file": "original_pages/index@page_id=38.json"
+  },
+  "index@page_id=3823": {
+    "title": "Bulldozer Operation Course - ATTC - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=3823.html",
+    "word_count": 419,
+    "json_file": "original_pages/index@page_id=3823.json"
+  },
+  "index@page_id=3827": {
+    "title": "Construction Plant Operation (non-lifting) CET Online - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=3827.html",
+    "word_count": 461,
+    "json_file": "original_pages/index@page_id=3827.json"
+  },
+  "index@page_id=4598": {
+    "title": "Portable Traffic Light Selling and Rental - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=4598.html",
+    "word_count": 547,
+    "json_file": "original_pages/index@page_id=4598.json"
+  },
+  "index@page_id=485": {
+    "title": "Our Competitive Strengths - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=485.html",
+    "word_count": 617,
+    "json_file": "original_pages/index@page_id=485.json"
+  },
+  "index@page_id=4893": {
+    "title": "BCA ATTC - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=4893.html",
+    "word_count": 543,
+    "json_file": "original_pages/index@page_id=4893.json"
+  },
+  "index@page_id=4902": {
+    "title": "Ley Choon Training Courses - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=4902.html",
+    "word_count": 375,
+    "json_file": "original_pages/index@page_id=4902.json"
+  },
+  "index@page_id=4904": {
+    "title": "Essential Road Maintenance Training Program - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=4904.html",
+    "word_count": 577,
+    "json_file": "original_pages/index@page_id=4904.json"
+  },
+  "index@page_id=754": {
+    "title": "Board of Directors - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=754.html",
+    "word_count": 1600,
+    "json_file": "original_pages/index@page_id=754.json"
+  },
+  "index@page_id=8": {
+    "title": "Our Business - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=8.html",
+    "word_count": 383,
+    "json_file": "original_pages/index@page_id=8.json"
+  },
+  "index@page_id=804": {
+    "title": "Corporate Video - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=804.html",
+    "word_count": 289,
+    "json_file": "original_pages/index@page_id=804.json"
+  },
+  "index@page_id=903&paged=10": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=10.html",
+    "word_count": 414,
+    "json_file": "original_pages/index@page_id=903&paged=10.json"
+  },
+  "index@page_id=903&paged=11": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=11.html",
+    "word_count": 404,
+    "json_file": "original_pages/index@page_id=903&paged=11.json"
+  },
+  "index@page_id=903&paged=12": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=12.html",
+    "word_count": 408,
+    "json_file": "original_pages/index@page_id=903&paged=12.json"
+  },
+  "index@page_id=903&paged=13": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=13.html",
+    "word_count": 411,
+    "json_file": "original_pages/index@page_id=903&paged=13.json"
+  },
+  "index@page_id=903&paged=14": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=14.html",
+    "word_count": 482,
+    "json_file": "original_pages/index@page_id=903&paged=14.json"
+  },
+  "index@page_id=903&paged=15": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=15.html",
+    "word_count": 409,
+    "json_file": "original_pages/index@page_id=903&paged=15.json"
+  },
+  "index@page_id=903&paged=16": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=16.html",
+    "word_count": 436,
+    "json_file": "original_pages/index@page_id=903&paged=16.json"
+  },
+  "index@page_id=903&paged=17": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=17.html",
+    "word_count": 441,
+    "json_file": "original_pages/index@page_id=903&paged=17.json"
+  },
+  "index@page_id=903&paged=18": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=18.html",
+    "word_count": 413,
+    "json_file": "original_pages/index@page_id=903&paged=18.json"
+  },
+  "index@page_id=903&paged=19": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=19.html",
+    "word_count": 397,
+    "json_file": "original_pages/index@page_id=903&paged=19.json"
+  },
+  "index@page_id=903&paged=2": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=2.html",
+    "word_count": 406,
+    "json_file": "original_pages/index@page_id=903&paged=2.json"
+  },
+  "index@page_id=903&paged=20": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=20.html",
+    "word_count": 410,
+    "json_file": "original_pages/index@page_id=903&paged=20.json"
+  },
+  "index@page_id=903&paged=21": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=21.html",
+    "word_count": 403,
+    "json_file": "original_pages/index@page_id=903&paged=21.json"
+  },
+  "index@page_id=903&paged=22": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=22.html",
+    "word_count": 458,
+    "json_file": "original_pages/index@page_id=903&paged=22.json"
+  },
+  "index@page_id=903&paged=23": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=23.html",
+    "word_count": 450,
+    "json_file": "original_pages/index@page_id=903&paged=23.json"
+  },
+  "index@page_id=903&paged=24": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=24.html",
+    "word_count": 432,
+    "json_file": "original_pages/index@page_id=903&paged=24.json"
+  },
+  "index@page_id=903&paged=28": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=28.html",
+    "word_count": 399,
+    "json_file": "original_pages/index@page_id=903&paged=28.json"
+  },
+  "index@page_id=903&paged=29": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=29.html",
+    "word_count": 423,
+    "json_file": "original_pages/index@page_id=903&paged=29.json"
+  },
+  "index@page_id=903&paged=3": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=3.html",
+    "word_count": 440,
+    "json_file": "original_pages/index@page_id=903&paged=3.json"
+  },
+  "index@page_id=903&paged=30": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=30.html",
+    "word_count": 394,
+    "json_file": "original_pages/index@page_id=903&paged=30.json"
+  },
+  "index@page_id=903&paged=31": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=31.html",
+    "word_count": 407,
+    "json_file": "original_pages/index@page_id=903&paged=31.json"
+  },
+  "index@page_id=903&paged=32": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=32.html",
+    "word_count": 440,
+    "json_file": "original_pages/index@page_id=903&paged=32.json"
+  },
+  "index@page_id=903&paged=4": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=4.html",
+    "word_count": 425,
+    "json_file": "original_pages/index@page_id=903&paged=4.json"
+  },
+  "index@page_id=903&paged=40": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=40.html",
+    "word_count": 405,
+    "json_file": "original_pages/index@page_id=903&paged=40.json"
+  },
+  "index@page_id=903&paged=5": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=5.html",
+    "word_count": 434,
+    "json_file": "original_pages/index@page_id=903&paged=5.json"
+  },
+  "index@page_id=903&paged=53": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=53.html",
+    "word_count": 445,
+    "json_file": "original_pages/index@page_id=903&paged=53.json"
+  },
+  "index@page_id=903&paged=54": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=54.html",
+    "word_count": 510,
+    "json_file": "original_pages/index@page_id=903&paged=54.json"
+  },
+  "index@page_id=903&paged=55": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=55.html",
+    "word_count": 495,
+    "json_file": "original_pages/index@page_id=903&paged=55.json"
+  },
+  "index@page_id=903&paged=56": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=56.html",
+    "word_count": 427,
+    "json_file": "original_pages/index@page_id=903&paged=56.json"
+  },
+  "index@page_id=903&paged=57": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=57.html",
+    "word_count": 471,
+    "json_file": "original_pages/index@page_id=903&paged=57.json"
+  },
+  "index@page_id=903&paged=58": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=58.html",
+    "word_count": 424,
+    "json_file": "original_pages/index@page_id=903&paged=58.json"
+  },
+  "index@page_id=903&paged=59": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=59.html",
+    "word_count": 427,
+    "json_file": "original_pages/index@page_id=903&paged=59.json"
+  },
+  "index@page_id=903&paged=6": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=6.html",
+    "word_count": 412,
+    "json_file": "original_pages/index@page_id=903&paged=6.json"
+  },
+  "index@page_id=903&paged=60": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=60.html",
+    "word_count": 486,
+    "json_file": "original_pages/index@page_id=903&paged=60.json"
+  },
+  "index@page_id=903&paged=61": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=61.html",
+    "word_count": 403,
+    "json_file": "original_pages/index@page_id=903&paged=61.json"
+  },
+  "index@page_id=903&paged=7": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=7.html",
+    "word_count": 418,
+    "json_file": "original_pages/index@page_id=903&paged=7.json"
+  },
+  "index@page_id=903&paged=8": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=8.html",
+    "word_count": 405,
+    "json_file": "original_pages/index@page_id=903&paged=8.json"
+  },
+  "index@page_id=903&paged=9": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903&paged=9.html",
+    "word_count": 439,
+    "json_file": "original_pages/index@page_id=903&paged=9.json"
+  },
+  "index@page_id=903": {
+    "title": "Newsroom - Ley Choon Group Ley Choon Group",
+    "filename": "index.html@page_id=903.html",
+    "word_count": 424,
+    "json_file": "original_pages/index@page_id=903.json"
+  },
+  "index.php": {
+    "title": "Ley Choon Group - Ley Choon Group",
+    "filename": "index.php.html",
+    "word_count": 412,
+    "json_file": "original_pages/index.php.json"
+  }
+}
