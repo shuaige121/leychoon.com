@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="hero_title">Ley Choon Group Holdings Limited</title>
+
+    <!-- Fonts -->
+    <link
+        href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Open+Sans:wght@400;600&display=swap"
+        rel="stylesheet">
+
+    <!-- Styles -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <!-- Header -->
+    <header>
+        <div class="container header-inner">
+            <div class="logo">
+                <a href="#"><img src="assets/images/logo.png" alt="Ley Choon Group Logo"></a>
+            </div>
+
+            <nav>
+                <ul>
+                    <li><a href="#home" data-i18n="nav_home">Home</a></li>
+                    <li><a href="#about" data-i18n="nav_about">About Us</a></li>
+                    <li><a href="#services" data-i18n="nav_business">Our Business</a></li>
+                    <li><a href="#investors" data-i18n="nav_investor">Investor Relations</a></li>
+                    <li><a href="#contact" data-i18n="nav_contact">Contact Us</a></li>
+                </ul>
+            </nav>
+
+            <div class="language-switcher">
+                <select id="lang-select">
+                    <option value="en">English</option>
+                    <option value="cn">中文</option>
+                    <option value="ms">Melayu</option>
+                    <option value="tn">தமிழ்</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="hero-content">
+            <h1 data-i18n="hero_title">Ley Choon Group Holdings Limited</h1>
+            <p data-i18n="hero_subtitle">Established One-Stop Underground Utilities Infrastructure Construction and Road
+                Works Service Provider</p>
+            <a href="#about" class="btn" data-i18n="btn_read_more">Read More</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2 class="section-title" data-i18n="about_title">Corporate Profile</h2>
+            <div class="about-grid">
+                <div class="about-text">
+                    <p data-i18n="about_desc">Ley Choon Group of Companies is an established one-stop Underground
+                        Utilities Infrastructure Construction and Road Works service provider. We are a L6 Registered
+                        Contractor (highest grade) in Cable/Pipe Laying & Road Reinstatement and Asphalt Works.</p>
+                </div>
+                <div class="about-image">
+                    <!-- Using one of the project images -->
+                    <img src="assets/images/index_ld.jpg" alt="About Ley Choon">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <h2 class="section-title" data-i18n="services_title">Our Services</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <div class="service-icon">🏗️</div> <!-- Placeholder icon -->
+                    <h3 data-i18n="svc_utilities">Underground Utilities</h3>
+                    <p data-i18n="svc_utilities_desc">Installation, maintenance and repairs of underground utilities
+                        infrastructure.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🛣️</div>
+                    <h3 data-i18n="svc_road">Road & Airfield Construction</h3>
+                    <p data-i18n="svc_road_desc">Supply and laying of asphalt premix, milling and paving works.</p>
+                </div>
+                <div class="service-card">
+                    <div class="service-icon">🧱</div>
+                    <h3 data-i18n="svc_materials">Construction Materials</h3>
+                    <p data-i18n="svc_materials_desc">Production of asphalt premix and recycled aggregates.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Investor Relations / Downloads Section -->
+    <section id="investors" class="bg-light">
+        <div class="container">
+            <h2 class="section-title" data-i18n="nav_investor">Investor Relations</h2>
+            <div class="services-grid">
+                <div class="service-card">
+                    <h3>Annual Reports</h3>
+                    <ul class="resource-list">
+                        <li>
+                            <div class="resource-link" onclick="openPDF('assets/pdfs/2024-Sustainability-Report.pdf')">
+                                <span>📄</span> 2024 Sustainability Report
+                            </div>
+                        </li>
+                        <li>
+                            <div class="resource-link" onclick="openPDF('assets/pdfs/2023-Sustainability-Report.pdf')">
+                                <span>📄</span> 2023 Sustainability Report
+                            </div>
+                        </li>
+                        <li>
+                            <div class="resource-link" onclick="openPDF('assets/pdfs/2022-Sustainability-Report.pdf')">
+                                <span>📄</span> 2022 Sustainability Report
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+                <div class="service-card">
+                    <h3>Policies & Forms</h3>
+                    <ul class="resource-list">
+                        <li>
+                            <div class="resource-link" onclick="openPDF('assets/pdfs/Data_Privacy_Policy.pdf')">
+                                <span>🛡️</span> Data Privacy Policy
+                            </div>
+                        </li>
+                        <li>
+                            <div class="resource-link" onclick="openPDF('assets/pdfs/Application-Form-2024.pdf')">
+                                <span>📝</span> Application Form 2024
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- PDF Viewer Overlay -->
+    <div id="pdf-overlay" class="pdf-overlay">
+        <div class="pdf-header">
+            <span class="btn-close" onclick="closePDF()">×</span>
+        </div>
+        <div class="pdf-container">
+            <iframe id="pdf-frame" src=""></iframe>
+        </div>
+    </div>
+
+
+    <!-- Contact Section & Footer -->
+    <footer id="contact">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h3 data-i18n="nav_contact">Contact Us</h3>
+                    <ul class="contact-info">
+                        <li>
+                            <span data-i18n="footer_address">Address</span>:
+                            No. 3 Sungei Kadut Drive Singapore 729556
+                        </li>
+                        <li>
+                            <span data-i18n="footer_phone">Phone</span>:
+                            <!-- WhatsApp Link Transformation -->
+                            <a href="https://wa.me/6567570900" target="_blank"
+                                style="color: var(--secondary-color); font-weight: bold;">
+                                +65 6757 0900
+                            </a>
+                        </li>
+                        <li>
+                            <span data-i18n="footer_email">Email</span>:
+                            <!-- Mailto Link Transformation (Placeholder if not found) -->
+                            <a href="mailto:enquiry@leychoon.com"
+                                style="color: var(--secondary-color); font-weight: bold;">
+                                enquiry@leychoon.com
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <img src="assets/images/footer_certificate.png" alt="Certifications" style="max-width: 200px;">
+                </div>
+            </div>
+
+            <div class="copyright">
+                <p data-i18n="footer_copyright">© 2024 Ley Choon Group Holdings Limited. All Rights Reserved.</p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/translations.js"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>

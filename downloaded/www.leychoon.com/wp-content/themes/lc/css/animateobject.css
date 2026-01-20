@@ -1,0 +1,201 @@
+.logo_container:hover {
+	-webkit-animation: flipInX 3s;
+	-webkit-animation-delay: .5s; 
+	animation: flipInX 3s;
+}
+
+.topmenu {
+	/* -webkit-animation: pulse 1s;
+	-webkit-animation-delay: .1s; 
+	animation: pulse 1s; */
+}
+
+.sf-menu  ul {
+	/* -webkit-animation: pulse 1s;
+	-webkit-animation-delay: .1s;
+	animation: pulse 1s; */
+	
+}
+
+
+.welcome {
+	background-color:black; 
+	opacity:0.8; 
+	position:absolute;
+	top: 20%;
+	left: 150px;
+	color:white; 
+	width:60%;
+	height: auto;
+	-webkit-animation: zoomInLeft 3s;
+	-webkit-animation-delay: .1s;
+	animation: zoomInLeft 3s;
+	padding:10px; 
+	box-shadow: 15px 15px 30px #151515;
+}
+
+/*
+.welcome_text {
+	background-color:black; 
+	opacity:0.8; 
+	position:absolute; 
+	top: 32%;
+	left: 100px;
+	color:white; 
+	font-size: 0.8em;
+	text-align:left;
+	padding:10px; 
+	width:550px;
+	webkit-animation: zoomInLeft 5s;
+	-webkit-animation-delay: .1s;
+	animation: zoomInLeft 5s;
+	box-shadow: 15px 15px 30px #151515;
+}
+*/
+
+.vision {
+	border-radius: 100px / 50px;
+	background-color:orange; 
+	opacity:0.8; 	
+	top: 15%;
+	left: 5%;
+	color:black; 
+	width:80%;
+	right:5%;
+	height: auto;
+	/*
+	-webkit-animation: zoomInLeft 3s;
+	-webkit-animation-delay: .1s; 
+	animation: zoomInLeft 3s;*/
+	padding:10px; 
+	box-shadow: 15px 15px 30px #151515;	
+}
+
+
+.mission {
+	border-radius: 100px / 50px;
+	background-color:ForestGreen; 
+	opacity:0.8; 
+	/*position:absolute;
+	transform: translate(8%, 0%);*/
+	top: 15%;
+	left: 5%;
+	color:black; 
+	width:80%;
+	right:5%;
+	height: auto;/*
+	-webkit-animation: zoomInLeft 3s;
+	-webkit-animation-delay: .1s;
+	animation: zoomInLeft 3s;*/
+	padding:10px; 
+	box-shadow: 15px 15px 30px #151515;
+}
+
+.vision_title {
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    position: relative;
+    width: 100%;
+}
+
+.vision_text {
+    font-size: 1.1em;
+    text-align: left;
+    display: block;
+    position: relative;
+    width: 100%;
+	-webkit-font-smoothing: antialiased;	
+}
+
+.read_more  {
+	-webkit-animation: bounceInRight 5s;
+	-webkit-animation-delay: .5s;
+	animation: bounceInRight 5s;
+}
+
+.jello_button:hover, .pbSubmit:hover {
+	cursor:pointer;
+	-webkit-animation: jello 1s;
+	animation: jello 1s;
+	z-index: 98888;
+}
+
+.flipInX {
+	cursor:pointer;
+	-webkit-animation: flipInX 2s;
+	animation: flipInX 2s;
+	z-index: 98880;
+}
+
+.fadeInRight {
+	cursor:pointer;
+	-webkit-animation: fadeInRight 1s;
+	animation: fadeInRight 1s;
+	z-index: 98885;
+}	
+	
+.pulse_button:hover {
+	cursor:pointer;
+	-webkit-animation: pulse 1s;
+	animation: pulse 1s;
+	z-index: 98888;
+}
+
+.shake:hover {
+	cursor:pointer;
+	-webkit-animation: shake 2s;
+	animation: shake 2s;
+	z-index: 99888;
+}
+
+.page_title {
+	-webkit-animation: flipInX 4s;
+	-webkit-animation-delay: 1s;
+	animation: flipInX 4s;
+	-webkit-transform-origin: center bottom;
+	transform-origin: center bottom;
+}
+
+#rightcontent {
+	-webkit-animation: fadeIn 3s;
+	animation: fadeIn 3s;
+}
+
+#build {
+	color: yellow;
+	-webkit-animation: slideInLeft 2s;
+	-webkit-animation-delay: 3s;
+	animation: slideInLeft 2s;
+}
+
+#renew {
+	color: red;
+	-webkit-animation: slideInDown 2s;
+	-webkit-animation-delay: 5s;
+	animation: slideInDown 2s;
+}
+
+#recycle {
+	color: green;
+	-webkit-animation: slideInRight 2s;
+	-webkit-animation-delay: 8s;
+	animation: slideInRight 2s;
+}
+
+.popup {
+	-webkit-animation: slideInRight 1s;
+	-webkit-animation-delay: 1s;
+	animation: slideInRight 1s;
+}
+
+.members_description {
+	-webkit-animation: fadeIn 3s;
+	animation: fadeIn 3s;
+}
+
+.image_iso {
+	-webkit-animation: pulse 1s;
+	animation: pulse 1s;
+}
